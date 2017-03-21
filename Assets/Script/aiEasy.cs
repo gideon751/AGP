@@ -10,14 +10,13 @@ public class aiEasy : MonoBehaviour {
     public float damping;
     public Transform fpsTarget;
     Rigidbody theRigidbody;
-    Renderer myRender;
+    public Renderer myRender;
 	private EnemyMovement enemyMovementScript;
 	private bool playerSafe;
 
 
 	// Use this for initialization
 	void Start () {
-		myRender = GetComponent<Renderer> ();
 		theRigidbody = GetComponent<Rigidbody> ();
 		enemyMovementScript = GetComponent<EnemyMovement> ();
 	}

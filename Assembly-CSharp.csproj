@@ -59,6 +59,7 @@
      <Compile Include="Assets\Script\Sun.cs" />
      <Compile Include="Assets\Script\aiEasy.cs" />
      <Compile Include="Assets\Script\loadlevel.cs" />
+     <None Include="Assets\sky5X\README.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
