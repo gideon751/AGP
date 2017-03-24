@@ -7,6 +7,7 @@ public class CreateObject : MonoBehaviour {
 	public Transform Spawnpoint;
 	public GameObject Prefab;
 	public float Delay;
+	private int spawned;
 
 
 
