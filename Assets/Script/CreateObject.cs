@@ -7,12 +7,12 @@ public class CreateObject : MonoBehaviour {
 	public Transform Spawnpoint;
 	public GameObject Prefab;
 	public float Delay;
-	private int spawned;
+	private float spawned;
 
 
 
 	void Start () {
-
+		spawned = 0;
 
 	}
 
@@ -32,6 +32,8 @@ public class CreateObject : MonoBehaviour {
 	}
 
 		public void SpawnEnemy() {
+
+		spawned += 1;
 
 		if (spawned <= 5) {
 

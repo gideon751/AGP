@@ -1,18 +1,19 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DrumInventory.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\DrumPickup.js">
     <Files>
-      <File FileName="Assets\Script\CreateObject.cs" Line="25" Column="32" />
+      <File FileName="Assets\Script\CreateObject.cs" Line="36" Column="16" />
       <File FileName="Assets\Script\aiEasy.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\EnemyMovement.cs" Line="54" Column="1" />
-      <File FileName="Assets\Script\Spawnitems.cs" Line="32" Column="2" />
+      <File FileName="Assets\Script\EnemyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Spawnitems.cs" Line="1" Column="1" />
       <File FileName="Assets\Script\ai.cs" Line="1" Column="1" />
       <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="1" Column="1" />
       <File FileName="Assets\Script\Respawn.cs" Line="17" Column="28" />
-      <File FileName="Assets\Spin.cs" Line="18" Column="3" />
-      <File FileName="Assets\PlayerDetector.cs" Line="1" Column="1" />
-      <File FileName="Assets\DrumInventory.cs" Line="32" Column="28" />
+      <File FileName="Assets\Spin.cs" Line="23" Column="4" />
+      <File FileName="Assets\DrumInventory.cs" Line="37" Column="18" />
       <File FileName="Assets\Script\PlayerDead.cs" Line="18" Column="3" />
+      <File FileName="Assets\PlayerDetector.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\DrumPickup.js" Line="9" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
